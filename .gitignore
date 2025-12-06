@@ -18,8 +18,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# Sensitive variable files
-*.tfvars
+# Sensitive variable file
 *.tfvars.json
 
 # Optional: Editor directories
